@@ -1,4 +1,1 @@
 # Leenankurssi
-Kurssitöiden palautus
-
-Testaus
